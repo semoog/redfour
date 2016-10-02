@@ -1,0 +1,2 @@
+defmodule Redfour do
+end
