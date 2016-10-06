@@ -3,6 +3,10 @@ defmodule Converter do
     Float.ceil(val, 1)
   end
 
+  def to_m(val) do
+    val * 1000
+  end
+
   def to_km(val) do
     val / 1000
   end
